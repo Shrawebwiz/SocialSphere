@@ -1,0 +1,15 @@
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/CommentDAO.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/CommentDAOImpl.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/PostDAO.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/PostDAOImpl.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/UserDAO.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/DAO/UserDAOImpl.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/model/Comment.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/model/Post.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/model/User.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/servlet/CommentServlet.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/servlet/LoginServlet.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/servlet/LogoutServlet.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/servlet/PostServlet.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/servlet/RegisterServlet.java
+/Users/shravani/Library/CloudStorage/OneDrive-MITADTU/SocialMedia/src/main/java/com/util/DBUtil.java
